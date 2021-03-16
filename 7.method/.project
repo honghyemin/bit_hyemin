@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>Chap09(생성자와 변수의 초기화, 싱글톤)</name>
-=======
-	<name>Chap08(메서드와 오버로딩, 상수필드)</name>
->>>>>>> refs/remotes/origin/master
+	<name>7. method</name>
 	<comment></comment>
 	<projects>
 	</projects>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
-	<name>Chap09(생성자와 변수의 초기화, 싱글톤)</name>
+	<name>4. If</name>
 =======
-	<name>Chap08(메서드와 오버로딩, 상수필드)</name>
+	<name>javaBasic</name>
 >>>>>>> refs/remotes/origin/master
 	<comment></comment>
 	<projects>
